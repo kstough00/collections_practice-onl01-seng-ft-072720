@@ -40,5 +40,4 @@ array.inject(:+)
  def add_s(array)
    array.each_with_index.collect
      word[0] == "s"
-   end
- end
+end
